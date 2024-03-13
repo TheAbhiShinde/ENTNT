@@ -8,6 +8,8 @@ The ERP project is a comprehensive enterprise resource planning solution develop
 
 - [Requirements](#requirements)
 - [Installation](#installation)
+- [Description](#Description)
+- [Screenshots](#Screenshots)
 - [Configuration](#configuration)
 - [Troubleshooting](#troubleshooting)
 - [FAQ](#faq)
